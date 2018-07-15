@@ -17,7 +17,7 @@ class MainActivity : AppCompatActivity() {
 
         gridview.onItemClickListener =
                 AdapterView.OnItemClickListener { parent, v, position, id ->
-                    Toast.makeText(this, "$v", Toast.LENGTH_SHORT).show()
+                    Toast.makeText(this, "$position", Toast.LENGTH_LONG).show()
                 }
     }
 }
