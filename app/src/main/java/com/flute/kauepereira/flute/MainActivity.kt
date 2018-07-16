@@ -45,6 +45,7 @@ class MainActivity : AppCompatActivity() {
                         14 -> R.raw.titanic
                         else -> R.raw.avemaria
                     }
+                    mp.stop()
                     mp = MediaPlayer.create(this, song)
                     mp.start()
                 }
