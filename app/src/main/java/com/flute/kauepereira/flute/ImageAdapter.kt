@@ -8,14 +8,14 @@ import android.widget.ImageView
 
 // references to our images
 private val mThumbIds = arrayOf<Int>(
-        R.drawable.sample_2, R.drawable.sample_3,
-        R.drawable.sample_4, R.drawable.sample_5,
-        R.drawable.sample_6, R.drawable.sample_7,
-        R.drawable.sample_0, R.drawable.sample_1,
-        R.drawable.sample_2, R.drawable.sample_3,
-        R.drawable.sample_4, R.drawable.sample_5,
-        R.drawable.sample_6, R.drawable.sample_7,
-        R.drawable.sample_0) //, R.drawable.sample_1,
+        R.drawable.ave, R.drawable.cena,
+        R.drawable.darude, R.drawable.fox,
+        R.drawable.hobbit, R.drawable.hp,
+        R.drawable.illuminati, R.drawable.indiana,
+        R.drawable.jurassic, R.drawable.mcdonald,
+        R.drawable.mission, R.drawable.naruto,
+        R.drawable.spongebob, R.drawable.starwars,
+        R.drawable.titanic) //, R.drawable.sample_1,
         //R.drawable.sample_2, R.drawable.sample_3,
         //R.drawable.sample_4, R.drawable.sample_5,
         //R.drawable.sample_6, R.drawable.sample_7)
